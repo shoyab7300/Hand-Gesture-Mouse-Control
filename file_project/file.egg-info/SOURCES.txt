@@ -1,0 +1,10 @@
+dev-requirements.txt
+pyproject.toml
+file/__init__.py
+file/__main__.py
+file.egg-info/PKG-INFO
+file.egg-info/SOURCES.txt
+file.egg-info/dependency_links.txt
+file.egg-info/requires.txt
+file.egg-info/top_level.txt
+tests/test_file.py

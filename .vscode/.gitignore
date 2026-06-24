@@ -1,0 +1,22 @@
+# Virtual Environment
+
+venv/
+.venv/
+
+# Python Cache
+
+**pycache**/
+*.pyc
+
+# Screenshots
+
+screenshot_*.png
+
+# VS Code
+
+.vscode/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
